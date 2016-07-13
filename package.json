@@ -33,8 +33,5 @@
   },
   "scripts": {
     "build": "grunt"
-  },
-  "napa": {
-    "sticky-kit": "leafo/sticky-kit#v1.1.2"
   }
 }
